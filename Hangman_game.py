@@ -1,6 +1,6 @@
 import random
 
-words = ["apple", "banana", "cherry", "orange", "grapezxd"]
+words = ["java", "c", "python", "html", "css"]
 
 while True:
     word = random.choice(words)
